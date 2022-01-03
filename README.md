@@ -1,4 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Sangmee!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000) -->
+<div align=center>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdme22)](https://solved.ac/tkdme22)
 
 <div align=center>
   
@@ -22,8 +25,7 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdme22)](https://solved.ac/tkdme22)
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappyme2%2Fhit-counter&count_bg=%23FFE200&title_bg=%23555555&icon=&icon_color=%23FFDC00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
